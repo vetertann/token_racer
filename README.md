@@ -9,7 +9,7 @@ Turbo Racer doesn’t just use an LLM to sprinkle in flavor. Instead, it **abuse
 
 **In short:**  
 Instead of your CPU procedurally generating the world,  
-**Cerebras (or GPT, etc.) is generating every meter of road beneath your wheels, live.**  
+**LLM is generating every meter of road beneath your wheels, live.**  
 The car isn’t driving on code—it’s driving on inference!
 
 - This is the “Stochastic Parallax Highway” of AI games.
