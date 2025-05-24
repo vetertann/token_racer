@@ -5,7 +5,7 @@ After gear 1 runs only on Cerebras.
 
 ## Why This Game Is Wildly Inefficient
 
-Turbo Racer doesn’t just use an LLM to sprinkle in flavor. Instead, it **abuses** a large language model to generate every single new stretch of road as you drive—live, line by line, in real time. The player’s progress is entirely dependent on remote inference calls, making this game the least scalable and most computationally extravagant use of AI for a racing game in history. (It’s also weirdly fun.)
+Turbo Racer doesn’t just use an LLM to sprinkle in flavor. Instead, it **abuses** a large language model to generate every single new stretch of road as you drive—live, line by line, in real time. The player’s progress is entirely dependent on remote inference calls, making this game the least scalable and most computationally ~~stupid~~ extravagant use of AI for a racing game in history. (It’s also weirdly fun.)
 
 **In short:**  
 Instead of your CPU procedurally generating the world,  
