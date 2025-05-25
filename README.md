@@ -35,4 +35,4 @@ The car isn’t driving on code—it’s driving on inference!
 - `Q` or `Ctrl+C` — Quit
 
 ## Getting Started
-Just python token_racer.py in your console.
+Just enter your precious API key and then python token_racer.py in your console.
